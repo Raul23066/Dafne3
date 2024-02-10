@@ -17,7 +17,7 @@ say('BU EL MJR - Bot\nWhatsApp Bot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Bot creado por BU`, {
+say(`Bot creado por Larios.Psd, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
