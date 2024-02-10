@@ -10,15 +10,15 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['50249497668', ' DAFNESITA BOT ⚙️', true],
-  ['50249497668', ' NAJERA BOT ⚙️', true],
-  ['50249497668', ' NAJERA BOT ⚙️', true],
-  ['50249497668', ' NAJERA BOT ⚙️', true],
-  ['50249497668', ' NAJERA BOT ⚙️', true],
-  ['50249497668', ' NAJERA BOT ⚙️', true],
-  ['50249497668', ' NAJERA BOT ⚙️', true],
-  ['50249497668', ' NAJERA BOT ⚙️', false],
-  ['50249497668', ' NAJERA BOT ⚙️', true],
+  ['525610035034', ' DAFNESITA BOT ⚙️', true],
+  ['525610035034', ' DAFNESITA BOT ⚙️', true],
+  ['525610035034', ' DAFNESITA BOT ⚙️', true],
+  ['525610035034', ' DAFNESITA BOT ⚙️', true],
+  ['525610035034', ' DAFNESITA BOT ⚙️', true],
+  ['525610035034', ' DAFNESITA BOT ⚙️', true],
+  ['525610035034', ' DAFNESITA BOT ⚙️', true],
+  ['525610035034', ' NAJERA BOT ⚙️', false],
+  ['525610035034', ' NAJERA BOT ⚙️', true],
   ['525611531927','  NAJERA BOT ⚙️', true],
   ['525611531927'],
   ['525611531927'],
@@ -33,11 +33,11 @@ global.owner = [
   ['525611531927']
 ];
 
-global.suittag = ['573244351354'];
-global.prems = ['573244351354'];
+global.suittag = ['525611531927'];
+global.prems = ['525610035034'];
 
-global.packname = 'NAJERA BOT ⚙️';
-global.author = 'NAJERA BOT ⚙️';
+global.packname = 'DAFNESITA BOT⚙️';
+global.author = 'DAFNESITA BOT ⚙️';
 global.wm = 'NAJERA BOT ⚙️';
 global.titulowm = 'NAJERA BOT ⚙️';
 global.titulowm2 = `NAJERA BOT ⚙️`
@@ -62,9 +62,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝓡𝓔𝓧 𝓑𝓞𝓣 ⚙️`;
-global.gt = '𝓡𝓔𝓧 𝓑𝓞𝓣 ⚙️';
-global.mysticbot = ' 𝓡𝓔𝓧 𝓑𝓞𝓣 ⚙️';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ DAFNESITA BOT ⚙️`;
+global.gt = 'DAFNESITA BOT ⚙️';
+global.mysticbot = ' DAFNESITA BOT ⚙️';
 global.md = 'https://github.com/Bots-Larios/Larios-V2.0';
 global.mysticbot = 'https://github.com/Bots-Larios/Larios-V2.0';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
