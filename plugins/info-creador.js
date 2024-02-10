@@ -6,7 +6,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 
 *𝙴𝙻 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙾 𝙴𝚂 https://chat.whatsapp.com/JFmzWDhwDjW52Ouhh77Few*
 
-𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 12 𝙴𝚂 wa.me/50249497668*`.trim();
+𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 12 𝙴𝚂 wa.me/525610035034*`.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/Bots-Larios/Larios-V2.0`},
     'mimetype': `application/${document}`,
