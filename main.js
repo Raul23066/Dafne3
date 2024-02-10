@@ -124,7 +124,7 @@ const connectionOptions = {
         logger: pino({ level: 'silent' }),
         printQRInTerminal: !pairingCode, 
         mobile: useMobile, 
-        browser: ['Larios.Psd (Linux)', '', ''],
+        browser: ['DAFNESITA BOT (Linux)', '', ''],
         auth: {
             creds: state.creds,
             keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
