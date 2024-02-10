@@ -2,9 +2,9 @@ const handler = async (m, {conn, usedPrefix}) => {
   const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = ` 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 
-𝙴𝚂 wa.me/50249497668
+𝙴𝚂 wa.me/525610035034
 
-*𝙴𝙻 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙾 𝙴𝚂 https://www.instagram.com/bu_2348?igsh=MWsyeHlzMmszNW54ZA==*
+*𝙴𝙻 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙾 𝙴𝚂 https://chat.whatsapp.com/JFmzWDhwDjW52Ouhh77Few*
 
 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 12 𝙴𝚂 wa.me/50249497668*`.trim();
   const buttonMessage= {
@@ -17,13 +17,13 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://www.instagram.com/bu_2348?igsh=MWsyeHlzMmszNW54ZA==',
+        'mediaUrl': 'https://chat.whatsapp.com/JFmzWDhwDjW52Ouhh77Few',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://www.instagram.com/bu_2348?igsh=MWsyeHlzMmszNW54ZA=='}},
+        'sourceUrl': 'https://chat.whatsapp.com/JFmzWDhwDjW52Ouhh77Few'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
